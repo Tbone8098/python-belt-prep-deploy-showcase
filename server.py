@@ -3,3 +3,5 @@ from flask_app.controllers import controller_routes, controller_movie, controlle
 
 if __name__=="__main__":
     app.run(debug=True)
+
+# This is a test
